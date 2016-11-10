@@ -1,11 +1,11 @@
 body {
-    font-family: 'Quicksand', sans-serif;
-    color: #F08080;
+    font-family: "Quicksand", sans-serif;
+    color: #f08080;
     font-weight: 400;
 }
 
 .text-muted {
-    color: #FFB6C1;
+    color: #ffb6c1;
 }
 
 .title-super {
@@ -18,7 +18,7 @@ body {
     max-width: 80px;
 }
 
-img, embed, object, video {
+img {
     margin-left:auto;
     margin-right:auto;
 }
@@ -29,7 +29,10 @@ hr {
 }
 
 .col-md-4 > h3 {
-    color: #B22222;
+    color: #b22222;
     font-weight: 700;
 }
 
+footer {
+    margin-top: 20px;
+}
